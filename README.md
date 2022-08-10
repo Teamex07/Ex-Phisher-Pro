@@ -29,7 +29,7 @@ Get Victims Information Recived Your Mail
 
 - Upload Index.php File
 
-![Logo](9.PNG]
+![Logo](9.PNG)
 
 ## Demo
 ![Logo](IMG_20220803_064631_735.jpg)
