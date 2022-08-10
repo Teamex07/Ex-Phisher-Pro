@@ -1,7 +1,10 @@
 # Ex-Phisher-Pro
 Get Victims Information Recived Your Mail
+
+##Setup
+Got Your Browser & Search Infinity.freenet
  
-![Logo](received_1025986074757503.webp)
+![Logo](2.PNG)
 
 ## Demo
 ![Logo](IMG_20220803_064631_735.jpg)
