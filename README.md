@@ -40,9 +40,11 @@ Get Victims Information Recived Your Mail
 ![Logo](1660102204299_100.PNG)
 
 - Your Site Is Ready For Phishing & Now Send Your Site Link Victims 
-- When Victims Your Link Then Victims Information Recived Your Mail But Victims information Data Encrypt 
+- When Victims Login Your Link Then Victims Information Recived Your Mail But Victims information Data Encrypt 
 
 ![Logo](1660059695939_100.PNG)
+
+- Now Victims Data Copy
 
 
 
