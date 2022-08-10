@@ -34,6 +34,7 @@ Get Victims Information Recived Your Mail
 ## Demo
 ![Logo](IMG_20220803_064631_735.jpg)
 ![Logo](IMG_20220803_064637_349.jpg)
+- Go to Your site address & Your Site Is Ready Enjoy 😅
 
 
 
@@ -51,14 +52,14 @@ Get Victims Information Recived Your Mail
 ## Features
 
 
-- [01] SMS BOMBER 10 API ✅
-- [02] EMAIL BOMBER 2 API ✅
-- [03] SMS BOMBER AMOUNT 200 ✅
-- [04] EMAIL BOMBER AMOUNT 50 ✅
-- [06] EMAIL LOG IN TURNED OF
-- [07] KEY APPROVAL TURNED OFF ✅
-- [08]ALL ACTIVITY UNLOCKED ✅
-- [09]APP TOTALLY FREE😊
+- [01] 
+- [02] 
+- [03] 
+- [04] 
+- [06] 
+- [07] 
+- [08]
+- [09]
 
 
 
