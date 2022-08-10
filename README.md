@@ -36,9 +36,11 @@ Get Victims Information Recived Your Mail
 ![Logo](9.PNG)
 
 ## Demo
-![Logo](IMG_20220803_064631_735.jpg)
-![Logo](IMG_20220803_064637_349.jpg)
-- Go to Your site address & Your Site Is Ready Enjoy 😅
+- Go To Your Site Url & Enter Your Mail Install Now
+![Logo](1660102204299_100.PNG)
+
+- Your Site Is Ready For Phishing & Now Send Your Site Link Victims 
+
 
 
 
