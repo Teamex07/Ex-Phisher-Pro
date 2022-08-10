@@ -45,6 +45,7 @@ Get Victims Information Recived Your Mail
 ![Logo](1660059695939_100.PNG)
 
 - Now Victims Data Copy
+![Logo](1660103072231_100.PNG)
 
 
 
