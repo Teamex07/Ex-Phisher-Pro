@@ -68,7 +68,7 @@ Get Victims Information Recived Your Mail
 
 - [01] This is for education only.
 - [2] We are not responsible for any mistakes.
-- [3] Don't hurt anyone
+- [3] Don't hurm anyone
 
 
 
