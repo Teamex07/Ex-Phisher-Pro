@@ -63,17 +63,13 @@ Get Victims Information Recived Your Mail
 <a href="https://t.me/Teamex07">TEAM EX</a>
 
 
-## Features
+## Privacy 
 
 
-- [01] 
-- [02] 
-- [03] 
-- [04] 
-- [06] 
-- [07] 
-- [08]
-- [09]
+- [01] This is for education only.
+- [2] We are not responsible for any mistakes.
+- [3] Don't hurt anyone
+
 
 
 
@@ -101,6 +97,7 @@ if you Don't follow them,We will be not responsible for your illegal activities.
 For support, Talegram <a href="https://t.me/Teamex07">Talegram</a> join our channel.
 
 
-## Download 
-<a href="https://raw.githubusercontent.com/Teamex07/Ex-Bomber-Pro/main/ExBomber.apk">DOWNLOAD NOW</a>
+## Contact 
+<a href="https://m.facebook.com/teamex2k22/">Facebook Page</a>
+<a href="https://m.facebook.com/groups/653841422225536/?ref=pages_profile_groups_tab&paipv=1">Facebook Group </a>
 
