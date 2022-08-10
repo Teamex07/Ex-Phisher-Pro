@@ -18,6 +18,18 @@ Get Victims Information Recived Your Mail
 
 - Enter Your Valid Domain Name
 ![Logo](5.PNG)
+- Go To File Manager
+![Logo](6.PNG)
+
+- Open Htdocs Folder
+![Logo](7.PNG)
+
+- Upload File
+![Logo](8.PNG)
+
+- Upload Index.php File
+
+![Logo](9.PNG]
 
 ## Demo
 ![Logo](IMG_20220803_064631_735.jpg)
