@@ -8,11 +8,16 @@ Get Victims Information Recived Your Mail
 <a href="https://000webhost.com">00 Web Host</a>
 
 # Setup
-- Got Your Browser & Search Infinity.freenet
+- Go to Your Browser & Search Infinity.freenet
  
 ![Logo](2.PNG)
 - Create a Acount
 ![Logo](3.PNG)
+- Log In To Your Acount
+![Logo](4.PNG)
+
+- Enter Your Valid Domain Name
+![Logo](5.PNG)
 
 ## Demo
 ![Logo](IMG_20220803_064631_735.jpg)
